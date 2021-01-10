@@ -1,0 +1,9 @@
+
+@font-face {
+    font-family: 'neuropolregular';
+    src: url('../fonts/neuropol-webfont.woff2') format('woff2'),
+         url('../fonts/neuropol-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}

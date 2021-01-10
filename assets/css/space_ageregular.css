@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'space_ageregular';
+    src: url("../fonts/spaceage-webfont.woff2") format('woff2'),
+         url("../fonts/spaceage-webfont.woff") format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
